@@ -12,3 +12,4 @@ pistola 9mm: https://sketchfab.com/3d-models/pistola-9mm-amp-6a482947c10440b28bd
 M16: https://sketchfab.com/3d-models/m16-carbine-70710e9e36b747f297d9d7a2e96bd00a
 caja de munición: https://skfb.ly/oqCns
 Escudo: https://skfb.ly/6XJxI
+muestras: https://skfb.ly/oyXJT
